@@ -98,11 +98,6 @@ public class Drawing extends JPanel implements MouseListener, MouseMotionListene
         if (nameFigure.equals("Ellipse")){
             list.add(new Ellipse(position_x,position_y,c));}
 
-
-
-
-
-
     }
 
     public void mouseReleased(MouseEvent e ){
